@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a senior blockchain and web full-stack developer with over 10 years of experience. (blockchain - 5 years)
+My skills revolve around Node.js, Express.js, Nest.js, React.js, Next.js, smart contracts(solidity, rust), web3.js, ether.js and laravel.
 
 <!--
 **topdev107/topdev107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
